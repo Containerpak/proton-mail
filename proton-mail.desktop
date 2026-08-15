@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Proton Mail
+Comment=Use Proton Mail from its official desktop application.
+Exec=proton-mail %U
+Icon=proton-mail
+Terminal=false
+Categories=Network;Email;
