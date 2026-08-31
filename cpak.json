@@ -3,7 +3,7 @@
   "manifest_version": "3.0",
   "name": "Proton Mail",
   "description": "Use Proton Mail from its official desktop application.",
-  "version": "1.13.4",
+  "version": "1.14.0",
   "image": "ghcr.io/containerpak/proton-mail@sha256:cc3d9d78bc7bf262391db2610a003a9a05817cbdbe5d53e00675ba5a0d03ec05",
   "binaries": [
     "/usr/bin/proton-mail"

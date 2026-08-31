@@ -1,6 +1,6 @@
 FROM ubuntu:26.04 AS source
 
-ADD --checksum=sha256:9ba97623f2eaaf5ebe6c01048804bffdeb6c25e445aebdc9dcae04eb1bb77759 https://proton.me/download/mail/linux/1.13.4/ProtonMail-desktop-beta.deb /tmp/app.deb
+ADD --checksum=sha256:c81e5e297856f5b986c47b2338a665348d897cdf025c5cf53f3dbeefb0cf6288 https://proton.me/download/mail/linux/ProtonMail-desktop-beta.deb /tmp/app.deb
 
 FROM ghcr.io/containerpak/gtk3:main
 
