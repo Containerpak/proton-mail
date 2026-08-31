@@ -4,7 +4,7 @@
   "name": "Proton Mail",
   "description": "Use Proton Mail from its official desktop application.",
   "version": "1.14.0",
-  "image": "ghcr.io/containerpak/proton-mail@sha256:cc3d9d78bc7bf262391db2610a003a9a05817cbdbe5d53e00675ba5a0d03ec05",
+  "image": "ghcr.io/containerpak/proton-mail@sha256:2151ff7b913888b79d9d936ccab54cfb6f729ce90fa5688c1388902a3e1ecce2",
   "binaries": [
     "/usr/bin/proton-mail"
   ],
